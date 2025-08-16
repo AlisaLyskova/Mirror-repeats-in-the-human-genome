@@ -5,7 +5,8 @@ There are also files with already found mirror repeats and purine segments ("dat
 
 Resulted files with repeats and features are "data/ouputs/MRpur_annotated.csv" for all purine mirror repeats and "data'outputs/MRpur_inAGsegm_annotated.csv" for mirror repeats in segmentes.
 
-This work is described in the following publication:\
+This work is described in the following publication:
+
 &emsp;&emsp;__The origin of mirror repeats in the human genome__\
 &emsp;&emsp;Authors: Ryan McGinty; Alisa Lyskova; Sergei M Mirkin\
 &emsp;&emsp;Journal: Nucleic Acids Research\
