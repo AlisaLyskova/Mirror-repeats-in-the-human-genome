@@ -7,9 +7,9 @@ Resulted files with repeats and features are "data/ouputs/MRpur_annotated.csv" f
 
 This work is described in the following publication:\
 &emsp;&emsp;__The origin of mirror repeats in the human genome__\
-&emsp;Authors: Ryan McGinty; Alisa Lyskova; Sergei M Mirkin\
-Journal: Nucleic Acids Research\
-Year: 2025-06-20\
-DOI: 10.1093/nar/gkaf619
+&emsp;&emsp;Authors: Ryan McGinty; Alisa Lyskova; Sergei M Mirkin\
+&emsp;&emsp;Journal: Nucleic Acids Research\
+&emsp;&emsp;Year: 2025-06-20\
+&emsp;&emsp;DOI: 10.1093/nar/gkaf619
 
-[https://academic.oup.com/nar/article/53/12/gkaf619/8180737#](https://doi.org/10.1093/nar/gkaf619)
+&emsp;&emsp;[https://academic.oup.com/nar/article/53/12/gkaf619/8180737#](https://doi.org/10.1093/nar/gkaf619)
